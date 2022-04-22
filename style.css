@@ -37,12 +37,17 @@ body {
 }
 .first-section-div {
   height: 1031.14px;
-  background-color: aquamarine;
-  background-image: url(hero-free-img.jpg);
+  background-image: linear-gradient(
+      to right,
+      rgb(7 90 174 / 90%),
+      rgb(0 123 247 / 0%)
+    ),
+    url(hero-free-img.jpg);
   background-size: cover;
   background-position: 100%;
   background-repeat: no-repeat;
 }
+
 h1 {
   width: 100%;
   margin: 0;
