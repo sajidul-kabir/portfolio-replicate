@@ -68,8 +68,22 @@ body {
   font-size: 1rem;
   line-height: 1.72;
   color: #f4f6f6;
+  padding-bottom: 15px;
 }
-
+.text-container-button {
+  color: #067ae0;
+  background-color: #f4f6f6;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  border-radius: 0;
+  padding-top: 18px;
+  padding-right: 38px;
+  padding-bottom: 18px;
+  padding-left: 38px;
+  border: 0;
+  font-family: inherit;
+  cursor: pointer;
+}
 .second-section {
   height: 199px;
   margin: 0;
