@@ -42,15 +42,32 @@ body {
       rgb(7 90 174 / 90%),
       rgb(0 123 247 / 0%)
     ),
-    url(hero-free-img.jpg);
+    url(photos/hero-free-img.jpg);
   background-size: cover;
   background-position: 100%;
   background-repeat: no-repeat;
 }
 
-h1 {
-  width: 100%;
+.text-container {
+  width: 633.7px;
+  height: 531.14px;
+  padding: 15px;
+}
+.text-container-h1 {
+  font-size: 3.75rem;
+  line-height: 1.24;
+  font-weight: 1000;
+  padding-bottom: 15px;
+  color: #f4f6f6;
   margin: 0;
+}
+.text-container-p {
+  text-align: left;
+  font-weight: 400;
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1.72;
+  color: #f4f6f6;
 }
 
 .second-section {
