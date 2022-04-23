@@ -30,7 +30,7 @@ body {
 }
 .main-nav__item > a {
   color: black;
-  font-size: 16px;
+  font-size: 15.5px;
   text-decoration: none;
   font-weight: bold;
   padding: 0px 16px;
@@ -49,6 +49,8 @@ body {
 }
 
 .text-container {
+  position: relative;
+
   width: 633.7px;
   height: 531.14px;
   padding: 15px;
@@ -81,9 +83,15 @@ body {
   padding-bottom: 18px;
   padding-left: 38px;
   border: 0;
+  border-right: 1px solid #075aae;
   font-family: inherit;
   cursor: pointer;
 }
+.text-container-button__special {
+  background-color: #075aae;
+  color: white;
+}
+
 .second-section {
   height: 199px;
   margin: 0;
