@@ -93,6 +93,25 @@ body {
   color: white;
   margin-left: 3px;
 }
+.first-section-image-container {
+  text-align: center;
+  padding: 20px 0px;
+  background-color: #f4f6f6;
+}
+.h3-div {
+  font-size: 21px;
+  margin: 0;
+  line-height: 1.4;
+  margin-bottom: 20px;
+}
+.image-div {
+  display: inline-block;
+  padding: 10px 8px;
+}
+.image-div > img {
+  vertical-align: middle;
+  width: 160px;
+}
 
 .second-section {
   height: 199px;
