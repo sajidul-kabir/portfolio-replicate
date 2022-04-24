@@ -140,26 +140,43 @@ body {
   display: inline-block;
   height: 516.67px;
   width: 350px;
+  padding: 60px 40px;
   background-color: #075aae;
   color: #f4f6f6;
 }
 .first-card {
-  margin-right: 20px;
+  margin-right: 15px;
 }
 .second-card {
   margin: 0px 10px;
 }
 .third-card {
-  margin-left: 20px;
+  margin-left: 15px;
 }
 .cards-text-container {
+  padding: 10px;
+  margin-top: 15px;
 }
 .cards-hr {
-  border-bottom: 2px solid black;
-  width: 30px;
+  border-bottom: 1px solid #067ae0;
+  width: 50px;
 }
 .cards-h2 {
   font-size: 40px;
   line-height: 1.3;
   font-weight: 500;
+  margin: 23px 0px;
+}
+.cards-p {
+  margin-bottom: 1.6em;
+  line-height: 1.72;
+  margin-bottom: 45px;
+}
+.cards-button {
+  background-color: #075aae;
+  color: white;
+  border: 1px solid white;
+  font-family: inherit;
+  padding: 18px 38px;
+  font-size: 15px;
 }
