@@ -353,3 +353,23 @@ body {
   font-weight: 400;
   text-align: center;
 }
+
+.footer {
+  background-color: #f4f6f6;
+  padding: 30px;
+  vertical-align: middle;
+  text-align: center;
+}
+.footer p {
+  margin: 0;
+  display: inline-block;
+  line-height: 1.72;
+}
+.footer-copyright {
+  position: relative;
+  right: 420px;
+}
+.footer-powered-by {
+  position: relative;
+  left: 420px;
+}
