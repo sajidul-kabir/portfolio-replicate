@@ -335,3 +335,21 @@ body {
   width: 444px;
   height: 614px;
 }
+
+.fifth-section {
+  background-color: #075aae;
+  height: 360px;
+  padding: 100px 30px;
+}
+.fifth-section-div {
+  width: 50%;
+  margin: 20px auto;
+}
+.fifth-section-div h2 {
+  font-size: 40px;
+  color: #f4f6f6;
+  margin: 0;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+}
