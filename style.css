@@ -282,3 +282,16 @@ body {
   width: 50px;
   margin-bottom: 35px;
 }
+.fourth-section {
+  height: 899.33px;
+  padding: 80px 0px;
+  background-color: #f4f6f6;
+  align-items: center;
+}
+.fourth-section-div {
+  padding: 15px;
+  height: 739.33px;
+  width: 1140px;
+  margin: auto;
+  background-color: #f4f6f6;
+}
