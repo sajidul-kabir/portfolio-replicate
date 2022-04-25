@@ -282,6 +282,9 @@ body {
   width: 50px;
   margin-bottom: 35px;
 }
+
+/*Fourth Section*/
+
 .fourth-section {
   height: 899.33px;
   padding: 80px 0px;
@@ -336,6 +339,8 @@ body {
   height: 614px;
 }
 
+/*Fifth Section*/
+
 .fifth-section {
   background-color: #075aae;
   height: 360px;
@@ -353,6 +358,8 @@ body {
   font-weight: 400;
   text-align: center;
 }
+
+/*Footer*/
 
 .footer {
   background-color: #f4f6f6;
