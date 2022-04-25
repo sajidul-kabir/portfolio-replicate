@@ -232,3 +232,12 @@ body {
   font-weight: 500;
   margin-bottom: 25px;
 }
+.third-section-div {
+  background-color: #067ae0;
+  height: 621.54px;
+  margin: 0;
+  background-image: linear-gradient(to left, #075aae 10%, rgb(0 123 247 / 0%)),
+    url(photos/testimonials-free-img.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
